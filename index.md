@@ -8,11 +8,13 @@ Webアプリのサーバーサイドエンジニアを目指しています。
 - 兵庫県
 - Web開発、サーバー構築
 
-# SKILLS
+# Skills
 - Ubuntu
 - Javascript
 - Express、Node.js
 - Git、PostgreSQL
 
+# Work
+- 
 # Contact
 - [Mail] th822.198237645@gmail.com
