@@ -14,7 +14,7 @@ Webアプリのサーバーサイドエンジニアを目指しています。
 - Express、Node.js
 - Git、PostgreSQL
 
-# Work
-- 
+# Workｓ
+- 出欠調整アプリ(https://lit-crag-12569.herokuapp.com/)
 # Contact
 - [Mail] th822.198237645@gmail.com
