@@ -10,8 +10,8 @@ Webアプリのサーバーサイドエンジニアを目指しています。
 
 # Skills
 - Ubuntu
-- Javascript
-- Express、Node.js
+- Javascripts、Node.js、jQuery
+- Expres
 - Git、PostgreSQL
 
 # Workｓ
